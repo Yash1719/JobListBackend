@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      host:jobdocker
+      port:27017
+      database:studentdb
